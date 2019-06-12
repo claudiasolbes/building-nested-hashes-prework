@@ -4,7 +4,6 @@
        :matriarch => {},
        :hero => {},
        :hero_friends => []
-       
      },
      :capulet => {
        :patriarch => {},
